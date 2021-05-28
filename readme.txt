@@ -1,4 +1,10 @@
-# WordCound_RabbitMQ_SQLalchemyORM
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 28 12:10:11 2021
+
+@author: Viktor Semenov
+"""
 
 Word count module with SQL ORM and RabbitMQ
 
@@ -41,5 +47,3 @@ This issue needs to be addressed further
 2. Pika RabbitMQ connection can die on long tasks (big web pages), probably
 need to use Select connection instead of Blocking connection.
 
-
- 

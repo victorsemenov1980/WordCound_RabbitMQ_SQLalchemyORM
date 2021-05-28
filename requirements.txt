@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+nltk==3.6.2
+numpy==1.20.3
+numpydoc==1.1.0
+packaging==20.9
+pandas==1.2.4
+pandocfilters==1.4.3
+pika==1.2.0
+regex==2021.4.4
+requests==2.25.1
+schedule==1.1.0
+SQLAlchemy==1.4.15
